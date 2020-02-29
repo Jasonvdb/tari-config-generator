@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tari-config-generator/static/css/main.3f5af0e8.chunk.css",
+    "main.js": "/tari-config-generator/static/js/main.52dfe221.chunk.js",
+    "main.js.map": "/tari-config-generator/static/js/main.52dfe221.chunk.js.map",
+    "runtime-main.js": "/tari-config-generator/static/js/runtime-main.54e70069.js",
+    "runtime-main.js.map": "/tari-config-generator/static/js/runtime-main.54e70069.js.map",
+    "static/css/2.99fe0c41.chunk.css": "/tari-config-generator/static/css/2.99fe0c41.chunk.css",
+    "static/js/2.24254f4a.chunk.js": "/tari-config-generator/static/js/2.24254f4a.chunk.js",
+    "static/js/2.24254f4a.chunk.js.map": "/tari-config-generator/static/js/2.24254f4a.chunk.js.map",
+    "index.html": "/tari-config-generator/index.html",
+    "precache-manifest.fe96eb1a6243d084bcb93385bd983cc9.js": "/tari-config-generator/precache-manifest.fe96eb1a6243d084bcb93385bd983cc9.js",
+    "service-worker.js": "/tari-config-generator/service-worker.js",
+    "static/css/2.99fe0c41.chunk.css.map": "/tari-config-generator/static/css/2.99fe0c41.chunk.css.map",
+    "static/css/main.3f5af0e8.chunk.css.map": "/tari-config-generator/static/css/main.3f5af0e8.chunk.css.map",
+    "static/js/2.24254f4a.chunk.js.LICENSE.txt": "/tari-config-generator/static/js/2.24254f4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54e70069.js",
+    "static/css/2.99fe0c41.chunk.css",
+    "static/js/2.24254f4a.chunk.js",
+    "static/css/main.3f5af0e8.chunk.css",
+    "static/js/main.52dfe221.chunk.js"
+  ]
+}
